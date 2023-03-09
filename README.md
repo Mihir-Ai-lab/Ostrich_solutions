@@ -1,2 +1,1 @@
-# BFSI
-All codes related to the BFSI Industry
+# All codes related to the BFSI Industry
