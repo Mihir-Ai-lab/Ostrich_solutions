@@ -25,4 +25,8 @@ We ensure that personal data is protected.
 
 - By making datasets accessible, usable, and secure, our platform can help financial institutions to harness the power of their data and make more informed decisions.
 
-To achieve this, it will be important to build a robust platform that can handle large datasets and implement advanced data analytics techniques, such as machine learning algorithms and predictive modelling. Additionally, it will be important to ensure that the platform is secure and that data privacy and security measures are in place to protect sensitive financial data.
+- To achieve this, it will be important to build a robust platform that can handle large datasets and implement advanced data analytics techniques, such as machine learning algorithms and predictive modelling. Additionally, it will be important to ensure that the platform is secure and that data privacy and security measures are in place to protect sensitive financial data.
+
+# Team
+
+- Please check here for skillset required for collaborating
