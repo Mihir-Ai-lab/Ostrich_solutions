@@ -1,4 +1,12 @@
-We are currently looking for talented individuals to join our team and help us build our platform. Below are the positions we are hiring for, along with their key responsibilities and current status.
+## If you are eager to bring new ideas and innovations to the table, We have an exciting opportunity for you!
+
+We're looking for talented and passionate individuals to join our team and make a real impact in our industry.
+
+As a member of our team, you'll have the chance to work with the latest cutting-edge technologies and collaborate with a diverse and dynamic group of colleagues. Together, we're committed to shaping the future of our platform and bringing meaningful change to the industry.
+
+We're currently searching for candidates for various positions and we welcome you to become a part of this incredible journey. By joining us, you'll not only further your career development but also be a part of a supportive community where you can connect with like-minded individuals and gain valuable insights and guidance.
+
+So, if you're excited about being a part of something amazing, join us! Here's a list of the kind of expertise we're looking for in our collaborators:
 
 | Sr. No. | Job Title | Description | Key Responsibilities | Current Status |
 | ------ | --------- | ----------- | -------------------- | -------------- |
