@@ -56,7 +56,7 @@ When submitting a pull request, please follow these guidelines:
 
 ## Code of Conduct
 
-We ask that all contributors adhere to our Code of Conduct, which can be found in the `CODE_OF_CONDUCT.md` file in this repository.
+We ask that all contributors adhere to our Code of Conduct, which can be found in the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file in this repository.
 
 ## Security Policy
 
