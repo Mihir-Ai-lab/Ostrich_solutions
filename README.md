@@ -48,4 +48,5 @@ If you discover a security vulnerability, please see our [Security Policy](SECUR
 
 ## Contact Us
 
-If you have any questions or feedback, please send us an [E-mail](mihir@thedatascienceguy.info). We would love to hear from you!
+If you have any questions or feedback, please send us an [E-mail](mailto:mihir@thedatascienceguy.info?subject=Questions%20or%20Feedback). We would love to have hear from you!
+
