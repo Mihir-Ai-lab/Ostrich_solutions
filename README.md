@@ -22,7 +22,7 @@ Please check out our [Team page](https://github.com/Mihir-Ai-lab/Ostrich_solutio
 
 ## Contributing
 
-We welcome contributions from everyone. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+We welcome contributions from everyone. Please see our [Contribution Guidelines](CONTRIBUTING.md) for details.
 
 ## License
 
@@ -30,22 +30,22 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Code of Conduct
 
-Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct.
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) for details on our code of conduct.
 
 ## Security Policy
 
-If you discover a security vulnerability, please see our [SECURITY.md](SECURITY.md) for information on how to report it.
+If you discover a security vulnerability, please see our [Security Policy](SECURITY.md) for information on how to report it.
 
 ## Additional Resources
 
-- [CHANGELOG.md](CHANGELOG.md): A record of the changes made to Ostrich Solutions with each release.
+- [Change log](CHANGELOG.md): A record of the changes made to Ostrich Solutions with each release.
 
-- [CONTRIBUTORS.md](CONTRIBUTORS.md): A list of contributors who have made significant contributions to the project.
+- [Contributors](CONTRIBUTORS.md): A list of contributors who have made significant contributions to the project.
 
-- [ROADMAP.md](ROADMAP.md): Our plans and goals for the future development of Ostrich Solutions.
+- [Roadmap](ROADMAP.md): Our plans and goals for the future development of Ostrich Solutions.
 
-- [STYLEGUIDE.md](STYLEGUIDE.md): Our coding style and guidelines for contributing to the project.
+- [Style Guide](STYLEGUIDE.md): Our coding style and guidelines for contributing to the project.
 
 ## Contact Us
 
-If you have any questions or feedback, please contact us at mihir@thedatascienceguy.info. We would love to hear from you!
+If you have any questions or feedback, please send us an [E-mail](mihir@thedatascienceguy.info). We would love to hear from you!
