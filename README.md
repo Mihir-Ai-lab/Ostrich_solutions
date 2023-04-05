@@ -14,6 +14,8 @@ Our unique value proposition lies in attracting and nurturing data scientists fr
 
 To achieve this, we build a robust platform that can handle large datasets and implement advanced data analytics techniques, such as machine learning algorithms and predictive modelling. Additionally, we ensure that the platform is secure and that data privacy and security measures are in place to protect sensitive financial data.
 
+- [More details](https://drive.google.com/file/d/1bkk98T4JewJ0LtXaBLdapAK6fQdPGA-s/view?usp=drivesdk "More details")
+
 ## Team
 
 Please check out our [Team page](https://github.com/Mihir-Ai-lab/Ostrich_solutions/blob/main/Team.md) to see the skillset required for collaborating with us.
