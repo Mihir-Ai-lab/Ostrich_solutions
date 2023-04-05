@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Ostrich Solutions, please send an e-mail to mihir@thedatascienceguy.info. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability in Ostrich Solutions, please send an [E-mail](mailto:mihir@thedatascienceguy.info?subject=Security%20Vulnerability). All security vulnerabilities will be promptly addressed.
 
 When reporting a vulnerability, please include the following information:
 
