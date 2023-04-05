@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Ostrich Solutions Code of Conduct
 
 ## Our Pledge
 
