@@ -1,3 +1,5 @@
+At Ostric Solutions, we're building a talented team of professionals with diverse skills and expertise to create innovative solutions for our clients. Below are the roles that we're currently hiring for.
+
 ## Lead Developer
 
 The Lead Developer will be responsible for overseeing the development of the platform and building a team of developers. They should have expertise in micro services architecture, cloud platforms, and experience in developing and deploying blockchain-based applications. 
