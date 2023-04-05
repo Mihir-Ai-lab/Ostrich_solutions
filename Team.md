@@ -1,4 +1,4 @@
-## If you are eager to bring new ideas and innovations to the table, We have an exciting opportunity for you!
+##If you are eager to bring new ideas and innovations to the table, We have an exciting opportunity for you!
 
 We're looking for talented and passionate individuals to join our team and make a real impact in our industry.
 
