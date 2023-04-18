@@ -56,14 +56,14 @@ When submitting a pull request, please follow these guidelines:
 
 ## Code of Conduct
 
-We ask that all contributors adhere to our Code of Conduct, which can be found in the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file in this repository.
+We ask that all contributors adhere to our Code of Conduct, which can be found in the [Code of Conduct](CODE_OF_CONDUCT.md) file in this repository.
 
 ## Security Policy
 
-If you discover a security vulnerability in Ostrich Solutions, please send an e-mail to mihir@thedatascienceguy.info. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability in Ostrich Solutions, please send an [E-mail](mailto:mihir@thedatascienceguy.info?subject=Security%20Vulnerability). All security vulnerabilities will be promptly addressed.
 
 ## Contact
 
-If you have any questions about contributing to Ostrich Solutions, please contact us at mihir@thedatascienceguy.info.
+If you have any questions about contributing to Ostrich Solutions, please send us an [E-mail](mailto:mihir@thedatascienceguy.info?subject=Contribution%20Github)
 
 Thank you for your contributions to Ostrich Solutions! We appreciate your help in making our project better.
